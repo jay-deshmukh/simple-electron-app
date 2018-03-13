@@ -1,3 +1,3 @@
 # simple-electron-app
-` npm install `
-` electron ./main.js`
+`1. npm install `
+`2. electron ./main.js`
